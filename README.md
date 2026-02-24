@@ -1,4 +1,4 @@
-# No Force Download - an LMS Force Previewer (Chromium Extension)
+# LMS Force Previewer - Enable PDF Preview Instead of Forced Downloads
 
 Some Learning Management Systems (LMS) force PDF files to download instead of allowing browser preview.
 
