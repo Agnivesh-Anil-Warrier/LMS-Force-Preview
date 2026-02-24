@@ -33,7 +33,7 @@ Built for reading notes without filling the Downloads folder.
 git clone https://github.com/YOUR_USERNAME/lms-preview-fix.git
 ```
 
-or download ZIP from GitHub.
+or download from the releases (check right sidebar).
 
 2. Open Chrome / Brave or any Chromium-based browser and go to:
 
@@ -46,8 +46,6 @@ chrome://extensions        (replace chrome with brave etc.)
 4. Click **Load unpacked** (top left)
 
 5. Select the project folder
-
-✅ Done.
 
 ---
 
@@ -64,6 +62,10 @@ This extension:
 ## 📸 Screenshot
 
 <img width="1600" height="647" alt="image" src="https://github.com/user-attachments/assets/081acaaa-fab3-4345-96d2-ba67a35c7a53" />
+
+> [!Note]
+> **Extract the zip/tar before proceeding. THe names may vary from what you see in the image.**
+
 <img width="992" height="836" alt="image" src="https://github.com/user-attachments/assets/5cd050af-3657-4cc8-8592-d4ba6b0b25a4" />
 
 
