@@ -2,11 +2,7 @@
 
 Some Learning Management Systems (LMS) force PDF files to download instead of allowing browser preview.
 
-This Chrome/Chromium extension automatically modifies LMS links by setting:
-
-`forcedownload=0`
-
-so PDFs open directly in the browser preview instead of downloading every time.
+This Chrome/Chromium extension automatically handles the situation so PDFs open directly in the browser preview instead of downloading every time.
 
 ---
 
